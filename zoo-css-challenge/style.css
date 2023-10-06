@@ -2,6 +2,30 @@
   font-family: sans-serif;
 }
 
+* {
+  line-height: 25px;
+}
+
+#logo {
+  border-style: none;
+}
+
+.introduction {
+  background-color: white;
+}
+
+/* #bear-img1 {
+  border-color: #8075ff
+}
+
+#bear-img1 {
+  border-color: burlywood;
+}
+
+#bear-img1 {
+  border-color: #747c92;
+} */
+
 header {
   background-color: #211a1d;
   color: #ffffff;
@@ -75,8 +99,6 @@ footer {
   justify-content: space-between;
 }
 
-.introduction {
-}
 
 #badge {
   height: 120px;
@@ -109,7 +131,15 @@ footer {
 }
 
 .image-container img:first-of-type {
-  vertical-align: bottom;
+  border: 5px solid burlywood[];
+}
+
+.image-container img:nth-of-type(2) {
+  border: 5px solid blanchedalmond;
+}
+
+.image-container img:nth-of-type(2) {
+  border: 5px solid rosybrown;
 }
 
 .tigers {
