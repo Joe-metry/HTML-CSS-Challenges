@@ -97,7 +97,7 @@ button {
 
 button:hover, button:focus {
   background-color: #766f8f;
-  color: #BEEE62;
+  color: burlywood;
 }
 
 footer {
@@ -240,6 +240,7 @@ footer {
 
 .membership p {
   width: 700px;
+  margin-left: 250px;
 }
 
 /*Programs*/
