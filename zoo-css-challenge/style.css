@@ -153,11 +153,11 @@ footer {
 
 .giraffe {
   background-color: #483C46;
-  color: #56e39f;
+  color: #BEEE62;
 }
 
-.giraffe h2 {
-  color: #ef6f6c;
+#giraffe-h2 {
+  color: #F4743B;
 }
 
 .card {
