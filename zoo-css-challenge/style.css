@@ -84,6 +84,7 @@ h3 {
 }
 
 button {
+  font-size: 100%;
   display: inline-block;
   border-radius: 3px;
   cursor: pointer;
