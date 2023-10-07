@@ -28,26 +28,30 @@
 
 .elephant-sec img:first-of-type{
   display: inline-block;
-  border-radius: 5%;
+  border-radius: 3%;
+  border-width: 1px;
   margin-right: 10px;
   box-sizing: border-box;
 }
 .elephant-sec img:nth-of-type(2){
   display: inline-block;
-  border-radius: 5%;
+  border-radius: 3%;
+  border-width: 1px;
   margin-right: 10px;
   box-sizing: border-box;
 }
 .elephant-sec img:nth-of-type(3){
   display: inline-block;
-  border-radius: 5%;
+  border-radius: 3%;
+  border-width: 1px;
   margin-right: 10px;
   box-sizing: border-box;
 }
 
-/* .elephant-sec {
-  margin-left: 50px;
-} */
+.elephant-sec {
+  background-color: #f5ccba;
+  
+}
 
 header {
   background-color: #211a1d;
