@@ -156,6 +156,10 @@ footer {
   color: #BEEE62;
 }
 
+.giraffe p:first-of-type {
+  font-size: 20px;
+}
+
 #giraffe-h2 {
   color: #F4743B;
 }
