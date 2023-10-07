@@ -67,6 +67,10 @@ h5 {
   margin-bottom: 1em;
 }
 
+#tiger-h1, #tiger-h3 {
+  color: #DBCBFB;
+}
+
 h1 {
   font-size: 250%;
 }
