@@ -97,6 +97,7 @@ button {
 
 button:hover, button:focus {
   background-color: #766f8f;
+  color: #BEEE62;
 }
 
 footer {
@@ -211,6 +212,7 @@ footer {
 }
 
 .education-container {
+  border-radius: 5%;
   background-color: rgba(255, 255, 255, 0.75);
   padding: 50px;
   max-width: 400px;
@@ -220,8 +222,6 @@ footer {
 .education-container p {
   margin-bottom: 1em;
 }
-
-
 
 /*Membership*/
 
